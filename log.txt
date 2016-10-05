@@ -1,0 +1,40 @@
+commit 241c6bd9bda5de43ff410bd031358eeb7244e6a3
+Author: CesarYamaguchi <cesar_yamaguchi12@hotmail.com>
+Date:   Tue Oct 4 12:46:11 2016 -0500
+
+    Comandos agregados a la tabla
+
+
+commit 3335b256c442411730cd1d5a3e028f0f6c01fe69
+Author: CesarYamaguchi <cesar_yamaguchi12@hotmail.com>
+Date:   Tue Oct 4 12:43:05 2016 -0500
+
+    footer
+
+
+commit b745e0cf5b0fea117347b9e382ee5e9a508613d2
+Author: CesarYamaguchi <cesar_yamaguchi12@hotmail.com>
+Date:   Tue Oct 4 12:41:15 2016 -0500
+
+    imagen git
+
+
+commit 9f17dac9844d67247cd3c0b7eb243da6c4ea8bef
+Author: CesarYamaguchi <cesar_yamaguchi12@hotmail.com>
+Date:   Tue Oct 4 12:37:40 2016 -0500
+
+    Tabla de comandos
+
+
+commit 82e2eb12cb8169647c82cbf93b38cecc8cb257e9
+Author: CesarYamaguchi <cesar_yamaguchi12@hotmail.com>
+Date:   Mon Oct 3 12:52:33 2016 -0500
+
+    Encabezado e integracion bootstrap
+
+
+commit bc90a98434d7e23df2f875f568cfae7f78e0df35
+Author: CesarYamaguchi <cesar_yamaguchi12@hotmail.com>
+Date:   Mon Oct 3 12:45:04 2016 -0500
+
+    Estructura inicial
